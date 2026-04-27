@@ -1,1 +1,5 @@
 Este es el primer ejemplo hecho en clase
+.
+.
+.
+Ahora esta es la segunda versión con mas texto y actualizado :D
